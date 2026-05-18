@@ -1,0 +1,23 @@
+{
+  "name": "qa-demoqa-playwright",
+  "version": "1.0.0",
+  "description": "Playwright TypeScript automation for demoqa.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steve007chong-wq/qa-demoqa-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/steve007chong-wq/qa-demoqa-playwright/issues"
+  },
+  "homepage": "https://github.com/steve007chong-wq/qa-demoqa-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.0"
+  }
+}
